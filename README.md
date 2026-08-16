@@ -90,6 +90,6 @@ Things I use along the way:
 
 I'm available for **full-time roles** and **contract work** involving TypeScript, frontend systems, Node.js, Kubernetes, OpenAPI, internal platforms, or developer tooling.
 
-[Open a conversation](https://github.com/typescreep) — coffee optional, interesting problem required.
+[Open a conversation](mailto:typescri@yandex.ru) — coffee optional, interesting problem required.
 
 </div>
